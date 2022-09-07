@@ -1,5 +1,5 @@
 # Orange HRM Test with Robot Framework
-# Test Product
+## Test Product
 This suite contains simple test demo for www.OrangeHrm.com. OrangeHrm is a web page
 # Test Scope
 The scope of this project is limited to the functional testing of the feastures decribed in the following session of this document. Non- functional testing like stress, Perforance is beyond scope of this project
