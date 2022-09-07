@@ -6,8 +6,8 @@ The scope of this project is limited to the functional testing of the feastures 
 # Test Environment
 The browser is Chrome. the device needs to be connected to the internet
 # Basic Login Errors
-User cannot login wth invalid credentials
-User cannot login without inputing text
+## User cannot login with invalid credentials
+## User cannot login without inputing text
 # How to Run Test
 In order o run the apliction successfully, install the necessary application/libraries in requirements.txt. It is recommended to run the app in Vs code 
 
